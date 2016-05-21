@@ -84,5 +84,38 @@ ul.topnav li.icon {display: none;}
     text-align: left;
   }
 }
-/*Nav CSS*/
+/* end Nav CSS*/
+
+/*Welcome text*/
+#welcome-text {
+  font-family: courier;
+  font-size: 26px;
+}
+/*end welcome text*/
+
+/*Footer social start*/
+footer {
+  text-align: center;
+  border-top: solid 1px; 
+  margin-top: 40px;
+}
+footer .logo {
+  color: #66BFA6;
+  font-family: courier;
+  font-size: 20px;
+}
+footer ul li {
+  display: inline-block;
+  list-style: none;
+ /* margin: 0 26px 75px;*/
+}
+footer ul li a img {
+  width: 40px;
+}
+footer p {
+  font-size: 12px;
+  color: #fff;
+  font-weight: 600;
+}
+/*End footer social */
 
