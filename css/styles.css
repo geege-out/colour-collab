@@ -38,7 +38,7 @@ ul.topnav {
   overflow: hidden;
   background-color: white;
   font-family: courier;
-  margin-bottom: 15px;
+  margin-bottom: 40px;
 }
 
 ul.topnav li {float: left;}
@@ -54,7 +54,7 @@ ul.topnav li a {
 }
 
 ul.topnav li a:hover {
-	background-color: white;
+	background-color: #66BFA6;
 	color: black;
 }
 
