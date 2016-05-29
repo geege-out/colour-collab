@@ -5,10 +5,14 @@ html {
   box-sizing: inherit;
 }
 
+.blogheading {
+  font-size: 30px;
+}
+
 h1 {
 	font-size: 70px;
 	padding-left: 40px;
-	color: #224037;
+	color: #66BFA6;
 	font-family: heiti sc light;
 	margin: 0.3em 0;
 }
@@ -37,10 +41,10 @@ img {
   border-radius: 50%;
 }
 
-
 .profilepic {
   border-radius: 50%;
 }
+
 
 
 /*Nav CSS*/
